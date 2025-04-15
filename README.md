@@ -6,9 +6,9 @@ This is a personal project that I put together with what I learned from my CS 11
 User input must be in the format of <Book> <Chapter>:<Verse(optional)>-<Last verse(optional)>
 
 EXAMPLES
->>> 1 Nephi 3 (prints entire chapter)
->>> 1 Nephi 3:7 (prints a single verse)
->>> 1 Nephi 3:7-9 (prints multiple verses)
+- 1 Nephi 3 (prints entire chapter)
+- 1 Nephi 3:7 (prints a single verse)
+- 1 Nephi 3:7-9 (prints multiple verses)
 
 Things I might change/add
 * Code Efficiency: As I learn more, I hope to recognize and revise inefficiencies in the program
